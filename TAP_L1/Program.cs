@@ -2,3 +2,4 @@
 Console.WriteLine("What`s your name?");
 String nume=Console.ReadLine();
 Console.WriteLine($"Hello {nume}! Welcome to .NET world.");
+Console.WriteLine("Sa fie cu noroc");
